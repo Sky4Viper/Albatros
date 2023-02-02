@@ -1,6 +1,8 @@
 # Albatros
 simple Albatros L-39ZA theme for Conky
 
+<img src=https://github.com/Sky4Viper/Albatros/blob/main/Screenshot-from-2023-02-02 22-49-13.png  alt=Preview><br>
+
 Usage:
 1. Instal Conky sudo apt-get install conky
 2. Download and extract them to /home/$USER/.conky (create this folder if you don't have it yet)
